@@ -1,3 +1,9 @@
+# PyMIDI Keyboard build 0.1a
+#
+# Tested under Python 3.7 (OS X 10.14 Mojave)
+#
+# Require pyFluidSynth module: https://github.com/nwhitehead/pyfluidsynth
+
 import sys
 import time
 import fluidsynth
